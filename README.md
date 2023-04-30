@@ -1,4 +1,4 @@
-# WEDID
+# GOTZ
 플레이스토어 링크  https://play.google.com/store/apps/details?id=com.gotz
 ###### (팀프로젝트로 본 Repository는 private으로 변경했습니다.)
 
